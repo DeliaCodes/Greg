@@ -27,5 +27,9 @@ nav h1 {
 }
 
 .Search {
-	
+
+}
+
+button {
+	background: url("magnifying-glass.png");
 }
