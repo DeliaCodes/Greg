@@ -1,5 +1,9 @@
+* {
+	border: solid 3px black;
+}
+
 nav {
-	background-color: grey;
+	background-color: #D3D3D3;
 	position: fixed;
 	height: 110px;
 	width: 99.9%;
@@ -10,6 +14,10 @@ nav ul {
 	text-align: right;
 	color: purple;
 	padding-right: 15px;
+}
+nav h1 {
+	margin-top: 30px;
+
 }
 
 .Post {
@@ -27,9 +35,29 @@ nav h1 {
 }
 
 .Search {
+	position: absolute;
+	margin-top: 8em;
+	margin-left: 2em;
+}
+
+label {
+	margin-top: 10em;
 
 }
 
+form {
+}
+
+button img {
+	height: 2em;
+
+}
+
+input {
+	height: 2em;
+}
 button {
-	background: url("magnifying-glass.png");
+	border: 0px;
+	padding: 0px;
+	height: 2em;
 }
