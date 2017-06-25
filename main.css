@@ -1,7 +1,7 @@
-* {
+/* * {
 	border: solid 3px black;
 }
-
+*/
 nav {
 	background-color: #D3D3D3;
 	position: fixed;
@@ -27,7 +27,7 @@ nav h1 {
 
 .Account {
 	display: inline-block;
-text-align: left;
+	text-align: left;
 }
 
 nav h1 {
@@ -37,7 +37,7 @@ nav h1 {
 .Search {
 	position: absolute;
 	margin-top: 8em;
-	margin-left: 2em;
+	margin-left: 4em;
 }
 
 label {
@@ -52,12 +52,24 @@ button img {
 	height: 2em;
 
 }
-
-
 	
 }
 button {
 	border: 0px;
 	padding: 0px;
 	height: 2em;
+}
+
+.page {
+	border: 1px solid #D3D3D3;
+	border-radius: 10px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+
+#page-div {
+	position: absolute;
+	margin-top: 13em;
+	margin-left: 4em;
 }
