@@ -82,6 +82,16 @@ button {
 	margin-top: 15em;
 }
 
-.date {}
-.title {}
-.location {}
+.date {
+	color: #D3D3D3;
+	display: inline-block;
+}
+.title {
+	display: inline-block;
+	color: blue;
+
+}
+.location {
+	display: inline-block;
+	color: #D3D3D3;
+}
