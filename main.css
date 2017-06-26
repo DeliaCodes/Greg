@@ -75,3 +75,13 @@ button {
 	margin-top: 13em;
 	margin-left: 2em;
 }
+
+#results {
+	position: absolute;
+	margin-left: 2em;
+	margin-top: 15em;
+}
+
+.date {}
+.title {}
+.location {}
