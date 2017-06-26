@@ -58,6 +58,9 @@ button {
 	height: 10px;
 }
 
+button:hover { 
+    size: 10em;
+}
 .s-button {
 	padding: 0px;
 }
