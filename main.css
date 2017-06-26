@@ -76,10 +76,22 @@ button {
 	margin-left: 2em;
 }
 
-#results {
+#resultsrow1 {
 	position: absolute;
 	margin-left: 2em;
 	margin-top: 15em;
+}
+
+#resultsrow2 {
+	position: absolute;
+	margin-left: 2em;
+	margin-top: 17em;
+}
+
+#resultsrow3 {
+	position: absolute;
+	margin-left: 2em;
+	margin-top: 19em;
 }
 
 .date {
